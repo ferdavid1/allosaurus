@@ -1,0 +1,42 @@
+a a
+b b
+c c
+d d
+e e
+f f
+h h
+i i
+k k
+kp k p
+l l
+m m
+mb b m
+n n
+nd d n
+nz n z
+o o
+p p
+s s
+t t
+u u
+v v
+w w
+z z
+ŋmɡb b m ŋ ɡ
+ŋɡ ŋ ɡ
+ɓ ɓ
+ɔ ɔ
+ɗ ɗ
+ɛ ɛ
+ɟ ɟ
+ɡ ɡ
+ɡb b ɡ
+ɪ ɪ
+ɱv v ɱ
+ɲ ɲ
+ɲɟ ɟ ɲ
+ɲʒ ɲ ʒ
+ʃ ʃ
+ʊ ʊ
+ʎ ʎ
+ʒ ʒ

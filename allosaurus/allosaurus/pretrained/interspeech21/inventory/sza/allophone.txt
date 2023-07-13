@@ -1,0 +1,51 @@
+a a ã
+ã ã
+b b
+c c ç
+cʰ cʰ
+d d
+e e ẽ
+ẽ ẽ
+h h
+i i ĩ ɪ
+ĩ ĩ
+j j ɣ
+k k
+kʰ kʰ
+l l
+m b m
+m̥ m̥
+n d n
+n̥ n̥
+o o õ
+õ õ
+p p
+pʰ pʰ
+r d r ɾ
+s s
+t t
+tʰ tʰ
+u u ũ
+ũ ũ
+w w
+z z
+ŋ ŋ ɡ
+ŋ̥ ŋ̥
+ɒ ɒ ɒ̃
+ɔ ɔ ɔ̃
+ɔ̃ ɔ̃
+ə ə ə̃
+ə̃ ə̃
+ɛ ɛ ɛ̃
+ɛ̃ ɛ̃
+ɟ ɟ ʝ
+ɡ ɡ
+ɲ ɟ ɲ
+ʉ ʉ ʉ̃
+ʔ ʔ
+ˀj ˀj
+ˀl ˀl
+ˀm ˀm
+ˀn ˀn
+ˀr ˀr
+ˀɲ ˀɲ

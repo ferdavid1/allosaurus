@@ -1,0 +1,60 @@
+a a i
+b b
+bʷ bʷ
+d d
+dz d z
+dzʷ d zʷ
+dʲ dʲ
+d̠ʒ d̠ ʒ
+f f
+fʷ fʷ
+h h
+hʲ hʲ
+hʷ hʷ
+i i
+j j
+k k
+kp k p
+kʷ kʷ
+lʲ lʲ
+lʷ lʷ
+m m
+mb b m
+mbʷ bʷ m
+mʷ mʷ
+n n
+nd d n
+ndz d n z
+ndzʷ d n zʷ
+nz n z
+n̠d̠ʒ d̠ n̠ ʒ
+o o
+p p
+pʷ pʷ
+s s ʃ
+sʷ sʷ
+t t
+ts s t
+tsʷ sʷ t
+tʲ tʲ
+tʷ tʷ
+t̠ʃ t̠ ʃ
+t̠ʃʷ t̠ ʃʷ
+u u
+v v
+w w
+ŋ ŋ
+ŋmɡb b m ŋ ɡ
+ŋɡ k ŋ ɡ
+ŋɡʲ ŋ ɡʲ
+ŋɡʷ ŋ ɡʷ
+ɔ ɔ
+ə ə
+ɛ ɛ
+ɡ ɡ
+ɡb b ɡ
+ɡʲ ɡʲ
+ɡʷ ɡʷ
+ɲ ɲ
+ʃ ʃ
+ʃʷ ʃʷ

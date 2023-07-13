@@ -1,0 +1,69 @@
+a a
+b b
+bv b v
+bzʷ b zʷ
+d d
+dlʷ d lʷ
+dz d z
+d̠ʒ d̠ ʒ
+e e ɛ
+f f
+i i
+j j
+k k
+kʰ kʰ
+kʷ kʷ
+kʷʰ kʷʰ
+l l
+lʷ lʷ
+m m
+m̤ m̤
+n n
+nʷ nʷ
+n̤ n̤
+n̤ʷ n̤ʷ
+o o ɔ
+p p
+pf f p
+pfʰ fʰ p
+psʷ p sʷ
+psʷʰ p sʷʰ
+pʰ pʰ
+r r
+s s
+sʷ sʷ
+t t
+ts s t
+tsʰ sʰ t
+tʰ tʰ
+tʷ tʷ
+t̠ʃ t̠ ʃ
+t̠ʃʰ t̠ ʃʰ
+u u
+v v
+v̤ v̤
+w w
+w̤ w̤
+z z
+ŋʷ ŋʷ
+ɓ ɓ
+ɖʐ ɖ ʐ
+ɖʐʷ ɖ ʐʷ
+ɗ ɗ
+ɡ ɡ
+ɡǂ ǂ ɡ
+ɡʷ ɡʷ
+ɡ̤ʷ ɡ̤ʷ
+ɦ ɦ
+ɬ ɬ
+ɬʷ ɬʷ
+ɲ ɲ
+ɲʷ ɲʷ
+ʃ ʃ
+ʃʷ ʃʷ
+ʈʂ ʂ ʈ
+ʈʂʰ ʂʰ ʈ
+ʈʂʷ ʂʷ ʈ
+ʐ ʐ
+ʐʷ ʐʷ
+ʒ ʒ

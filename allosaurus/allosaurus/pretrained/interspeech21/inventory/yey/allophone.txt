@@ -1,0 +1,88 @@
+a a
+aː aː
+b b
+bʲ bʲ
+bʷ bʷ
+c c
+cʰ cʰ
+cʷʰ cʷʰ
+d d
+dz d z
+dzʷ d zʷ
+dʲ dʲ
+dʷ dʷ
+d̠ʒ d̠ ʒ
+f f
+fʷ fʷ
+h h
+hʷ hʷ
+i i
+iː iː
+j j
+jʷ jʷ
+k k
+kǀ k ǀ
+kǀʰ k ǀʰ
+kǀʷ k ǀʷ
+kǀʷʰ k ǀʷʰ
+kǃ k ǃ
+kǃʰ k ǃʰ
+kʰ kʰ
+kʲ kʲ
+kʷ kʷ
+kʷʰ kʷʰ
+m m
+mʲ mʲ
+mʷ mʷ
+nʷ nʷ
+n̪ n̪
+p p
+pʰ pʰ
+pʲ pʲ
+pʲʰ pʲʰ
+pʷ pʷ
+r r
+rʷ rʷ
+s s
+ts s t
+tsʰ sʰ t
+tsʷʰ sʷʰ t
+tʰ tʰ
+tʲ tʲ
+tʷ tʷ
+tʷʰ tʷʰ
+t̠ʃ t̠ ʃ
+t̠ʃʰ t̠ ʃʰ
+t̪ t̪
+u u
+uː uː
+ũ ũ
+v v
+vʷ vʷ
+w w
+z z
+ŋ ŋ
+ŋʷ ŋʷ
+ɔ ɔ
+ɔː ɔː
+ɔ̃ ɔ̃
+ɛ ɛ
+ɛː ɛː
+ɛ̃ ɛ̃
+ɟ ɟ
+ɟʷ ɟʷ
+ɡ ɡ
+ɡǀ ǀ ɡ
+ɡǃ ǃ ɡ
+ɡʲ ɡʲ
+ɡʷ ɡʷ
+ɱ ɱ
+ɲ ɲ
+ɲʷ ɲʷ
+ɻ ɻ
+ɻʲ ɻʲ
+ʃ ʃ
+ʃʷ ʃʷ
+ʒ ʒ
+β β
+βʲ βʲ

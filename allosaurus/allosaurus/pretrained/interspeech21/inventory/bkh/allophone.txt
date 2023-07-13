@@ -1,0 +1,33 @@
+a a
+b b
+bʷ bʷ
+d d
+d̠ʒ d̠ ʒ
+e e
+f f
+i i
+j j
+k k
+kʷ kʷ
+l l
+m m
+mb b m
+mbʷ bʷ m
+n n
+nd d n
+o o
+p p
+s s
+t t
+t̠ʃ t̠ ʃ
+u u
+w w
+ŋ ŋ
+ŋɡ ŋ ɡ
+ŋɡʷ ŋ ɡʷ
+ɔ ɔ
+ɛ ɛ
+ɣ ɣ
+ɦ ɦ
+ɲ ɲ
+ɾ ɾ

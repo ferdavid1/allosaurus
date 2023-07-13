@@ -1,0 +1,55 @@
+a a ã ḁ
+aː aː ãː
+b b
+bː bː
+d d
+dː dː
+d̠ʒ d̠ ʒ
+d̠ʒː d̠ ʒː
+e e ẽ e̥
+eː eː ẽː
+f f
+fː fː
+h h
+i i ĩ i̥
+iː iː ĩː
+j j
+jː jː
+k k
+kʼ kʼ
+kʼː kʼː
+kː kː
+l l
+lː lː
+m m
+mː mː
+n n
+nː nː
+o o õ o̥
+oː oː õː
+pʼ pʼ
+pʼː pʼː
+r r
+rː rː
+s s
+sː sː
+t t
+tʼ tʼ
+tʼː tʼː
+tː tː
+t̠ʃ t̠ ʃ
+t̠ʃʼ t̠ ʃʼ
+t̠ʃʼː t̠ ʃʼː
+t̠ʃː t̠ ʃː
+u u ũ u̥
+uː uː ũː
+w w
+wː wː
+z z
+zː zː
+ɡ ɡ
+ɡː ɡː
+ɲ ɲ
+ʃ ʃ
+ʒ ʒ
+ʔ ʔ

@@ -1,0 +1,83 @@
+a a
+aˤ aˤ
+ã ã
+ãˤ ãˤ
+a̰ a̰
+ã̰ ã̰
+b b
+ç ç
+d d
+dx d x
+d̠ʒ d̠ ʒ
+d̠ʒxʼ d̠ xʼ ʒ
+d̠ʒː d̠ ʒː
+e e
+ḛ ḛ
+i i
+ĩ ĩ
+ḭ ḭ
+j j
+k k
+kxʼ k xʼ
+kǀ k ǀ
+kǀx k x ǀ
+kǀxʼ k xʼ ǀ
+kǀʰ k ǀʰ
+kǀʼ k ǀʼ
+kǁ k ǁ
+kǁx k x ǁ
+kǁxʼ k xʼ ǁ
+kǁʰ k ǁʰ
+kǁʼ k ǁʼ
+kǃ k ǃ
+kǃx k x ǃ
+kǃxʼ k xʼ ǃ
+kǃʰ k ǃʰ
+kǃʼ k ǃʼ
+kʰ kʰ
+l l
+m m
+mb b m
+n n
+nd d n
+o o
+oˤ oˤ
+õˤ õˤ
+o̰ o̰
+õ̰ õ̰
+p p
+pʰ pʰ
+qm m q
+qn n q
+t t
+tx t x
+tʰ tʰ
+t̠ʃ t̠ ʃ
+t̠ʃx t̠ x ʃ
+t̠ʃʰ t̠ ʃʰ
+t̠ʃʼ t̠ ʃʼ
+u u
+uˤ uˤ
+ũ ũ
+ũˤ ũˤ
+ṵ ṵ
+w w
+x x
+ŋ ŋ
+ŋǀ ŋ ǀ
+ŋǁ ŋ ǁ
+ŋǃ ŋ ǃ
+ŋɡ ŋ ɡ
+ɡ ɡ
+ɡǀ ǀ ɡ
+ɡǀx x ǀ ɡ
+ɡǀxʼ xʼ ǀ ɡ
+ɡǁ ǁ ɡ
+ɡǁx x ǁ ɡ
+ɡǁxʼ xʼ ǁ ɡ
+ɡǃ ǃ ɡ
+ɡǃx x ǃ ɡ
+ɡǃxʼ xʼ ǃ ɡ
+ɦ ɦ
+ɲ ɲ
+ʔ ʔ
